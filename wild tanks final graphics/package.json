@@ -1,0 +1,23 @@
+{
+  "name": "wild-tanks-online",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.18.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gorvoin2010a/wild-tanks-advances.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gorvoin2010a/wild-tanks-advances/issues"
+  },
+  "homepage": "https://github.com/gorvoin2010a/wild-tanks-advances#readme"
+}
